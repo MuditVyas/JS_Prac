@@ -23,7 +23,7 @@ h2{
 }
 
 #rock {
-    background-image: url('C:/Users/mudit/OneDrive - Balar Marketing Pvt ltd/Desktop/sps/rock.png');
+    background-image: url('rock.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover; /* or 'contain' depending on needs */
@@ -33,7 +33,7 @@ h2{
 }
 
 #paper {
-    background-image: url('C:/Users/mudit/OneDrive - Balar Marketing Pvt ltd/Desktop/sps/paper.png');
+    background-image: url('paper.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover; /* or 'contain' depending on needs */
@@ -43,7 +43,7 @@ h2{
 }
 
 #scissors {
-    background-image: url('C:/Users/mudit/OneDrive - Balar Marketing Pvt ltd/Desktop/sps/scissors.png');
+    background-image: url('scissors.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover; /* or 'contain' depending on needs */
