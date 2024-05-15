@@ -33,7 +33,7 @@ h2{
 }
 
 #paper {
-    background-image: url('https://github.com/MuditVyas/JS_Prac/blob/main/paper.png');
+    background-image: url('https://github.com/MuditVyas/JS_Prac/blob/main/paper.png?raw=true');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover; /* or 'contain' depending on needs */
@@ -43,7 +43,7 @@ h2{
 }
 
 #scissors {
-    background-image: url('https://github.com/MuditVyas/JS_Prac/blob/main/scissors.png');
+    background-image: url('https://github.com/MuditVyas/JS_Prac/blob/main/scissors.png?raw=true');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover; /* or 'contain' depending on needs */
