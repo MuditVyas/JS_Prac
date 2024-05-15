@@ -23,7 +23,7 @@ h2{
 }
 
 #rock {
-    background-image: url('https://github.com/MuditVyas/JS_Prac/blob/main/rock.png');
+    background-image: url('https://github.com/MuditVyas/JS_Prac/blob/main/rock.png?raw=true');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover; /* or 'contain' depending on needs */
